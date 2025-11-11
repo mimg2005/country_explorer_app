@@ -5,8 +5,8 @@ on:
     branches:
       - main # Set this to your default branch (e.g., main or master)
   workflow_dispatch: # Allows manual triggering of the workflow
-  permissions:
-    contents: write
+permissions:
+  contents: write
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest

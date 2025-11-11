@@ -1,0 +1,10 @@
+{
+  "app_title": "کاوشگر کشورها",
+  "search_placeholder": "جستجو بر اساس نام کشور یا کد تماس...",
+  "english_label": "English",
+  "persian_label": "فارسی",
+  "country_name": "نام کشور",
+  "calling_code": "کد تماس",
+  "no_countries_found": "کشوری یافت نشد.",
+  "loading": "در حال بارگذاری کشورها..."
+}

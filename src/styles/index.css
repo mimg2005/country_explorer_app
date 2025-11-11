@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+/* src/styles/index.css */
+
+/* IRANSans Regular */
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: 400; /* Regular */
+  src: url('/fonts/IRANSans/IRANSansWeb(FaNum).woff2') format('woff2'),
+       url('/fonts/IRANSans/IRANSansWeb(FaNum).woff') format('woff');
+  font-display: swap;
+}
+
+/* IRANSans Bold */
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: 700; /* Bold */
+  src: url('/fonts/IRANSans/IRANSansWeb(FaNum).woff2') format('woff2'),
+       url('/fonts/IRANSans/IRANSansWeb(FaNum).woff') format('woff');
+  font-display: swap;
+}
+
+/* Add other weights (Light, Medium, Black, Thin) if you have them and plan to use them.
+   Example:
+@font-face {
+  font-family: 'IRANSans';
+  font-style: normal;
+  font-weight: 300; // Light
+  src: url('/fonts/IRANSans/IRANSansWeb(FaNum)_Light.woff2') format('woff2'),
+       url('/fonts/IRANSans/IRANSansWeb(FaNum)_Light.woff') format('woff');
+  font-display: swap;
+}
+*/
+
+
+
+
+.font-iransans {
+  font-family: 'IRANSans', sans-serif !important; /* Use !important temporarily for debugging */
+}
+
+

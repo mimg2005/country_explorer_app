@@ -1,0 +1,10 @@
+{
+  "app_title": "Country Explorer",
+  "search_placeholder": "Search by country name or dialing code...",
+  "english_label": "English",
+  "persian_label": "فارسی",
+  "country_name": "Country Name",
+  "calling_code": "Calling Code",
+  "no_countries_found": "No countries found.",
+  "loading": "Loading countries..."
+}

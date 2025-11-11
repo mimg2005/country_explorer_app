@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/mimg2005/country_explorer_app.git",
+  "homepage": "https://mimg2005.github.io/country_explorer_app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -32,6 +32,7 @@ A modern and responsive React application designed to explore a comprehensive li
 *   **Utility Hooks**: `useDebounce`
 
 ## 📦 Project Structure
+```bash
 country-app/
 ├── public/ # Static assets including fonts
 ├── src/
@@ -50,6 +51,7 @@ country-app/
 ├── tailwind.config.js # Tailwind CSS configuration (including custom fonts)
 ├── postcss.config.js # PostCSS configuration
 └── package.json # Project dependencies and scripts
+```
 
 ## ⚙️ Installation & Setup
 
